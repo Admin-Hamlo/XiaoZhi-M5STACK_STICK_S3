@@ -1,4 +1,6 @@
 # XiaoZhi-M5STACK_STICK_S3
+Source https://github.com/78/xiaozhi-esp32/releases#release-v2.5.2
+
 Тюнинг исходного проекта под конкретный стик. Вайбкодинг, чисто для себя.
 Русский интерфейс, горизонтальный дисплей, исправлена громкость и текст в 3 строки.
 Бинарник готов к прошивке. xiaozhi-sticks3-custom.bin ready to flash to offset 0x0.
